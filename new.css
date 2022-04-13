@@ -1,0 +1,17 @@
+@media (min-width: 1000px) {
+    .section--grey {
+        margin-top: 89rem;
+    }
+}
+
+@media (min-width: 350px) {
+    .section--grey {
+        margin-top: 59rem;
+    }
+}
+
+@media (min-width: 600px) {
+    .section--grey {
+        margin-top: 89rem;
+    }
+}
